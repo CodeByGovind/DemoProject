@@ -1,0 +1,2 @@
+export const INJECTION = "INJECTION"
+export const PAINKILLER = "PAINKILLER"
